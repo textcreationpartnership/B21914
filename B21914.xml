@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of both Houses of Parliament shewing the necessity of a present subscription of money and plate for further supply of the army</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21914</idno><idno type="EEBO-CITATION">14879471</idno>
+  <idno type="VID">206123</idno>
+  <idno type="EEBO-PROQUEST">2248507480</idno>
+  
+            <idno type="STC">Wing E1345</idno>
+            <idno type="OCLC">14879471</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21914)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206123)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1569:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of both Houses of Parliament shewing the necessity of a present subscription of money and plate for further supply of the army</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>January 18, 1642 [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title: Die Sabbathi Januar. 7. 1642.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:206123:1"/>
+            <opener>
+               <dateline>
+                  <date>Die Sabbathi Januar. 7. 1642.</date>
+               </dateline>
+            </opener>
+            <head>A Declaration of Both Houses of Parliament, shevving the necessity of a present Subscription of Money and Plate, for further supply of the ARMY.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He pressing necessities of this Kingdome, caused, and daily multiplyed by the trayterous and bloody counsels and attempts of those pernicious and desperate Counsellors, still about the King, and protected by him, while they more and more manifest their implacable enmity to our religion, the Parliament, and peace of all his Majesties good Subjects and Dominions, have beene such, and so many, as have compelled Us the Lords and Com<g ref="char:EOLhyphen"/>mons Assembled in Parliament, to borrow moe and far greater sums of money, upon the Publique Faith, (besides those which we our selves advan<g ref="char:EOLhyphen"/>ced for the preservation of our Religion, the being (as well as the just and undoubted power and priviledges of Parliament, our Lawes and Liberties, from most apparent destruction) then at first we intended, and to be longer in repaying the same (which we still unanimously resolve shall be fully paid backe with interest) then heretofore we promised. And albeit we be now preparing and expediting sundry propositions to be humbly and speedily presented to his Majesty for an honourable and firme setling of the Publique Peace, without more effusion of Christian blood, yet no rati<g ref="char:EOLhyphen"/>onall man can be ignorant of the further necessity of providing more Treasure, as well for support of the army raised by authority of Parliament, un<g ref="char:EOLhyphen"/>till the King shall vouchsafe graciously to condescend to our just and necessary requests; as for the full payment of all such sums of mony as already are, or further may be due, and arrere for the necessary provision of Armes, Ammunition, and pay of the said Army, untill their dis-banding and returne home to their severall Countries (ac<g ref="char:EOLhyphen"/>cording to the times to be limited for that purpose) that so they may not be occasioned through want of pay to plunder, rob, or pillage by the way homewards, after their discharge and dismission.</p>
+            <p>Upon these grounds alone, we might very well recommend to the good affections and zeale of all good men within the City of <hi>London</hi> and throughout the Kingdome a new advance and loane of a very large and considerable sum of money, lest (while all we have is now in more imminent danger than ever) not onely all the moneyes already lent, but all those Treasures of our Religion, Lawes, and Liberties (which ought to be more precious to us then our whole estates and lives, which we have solemnely devoted to the defence of this cause) be utterly lost for want of some further supply, to close and perfect the worke in a safe and honourable way, whereby all these may be saved, and the moneyes already advanced for this service be in due time fully repaid.</p>
+            <p>But when we consider further, that (notwithstanding all his Majesties protestations, Declarations, and Proclamations to the contrary) not onely a great number of known papists are entertained, and imployed in his Majesties army, who have actually levied war against the King and Parliament: but Commissions have issued under the great Seale of <hi>England,</hi> to the Earle of <hi>Worcester,</hi> and to the Earle of <hi>Newcastle;</hi> by meanes whereof many thousands of professed papists (whose very principles of religion do ingage them to rebellion and shedding the blood of all protestants; and therefore ought not by the lawes to be entrusted with armes in their own houses, nor to come within the verge of his Majesties Court) are gathered into great bodies, and do actually beare armes against the King, Parliament, and Kingdom, and have plundred, robbed, pillaged, and murthered very many of his Majesties good protestant Subjects in the Northern parts, besides sundry other places of this Kingdom; which armies of papists do daily encrease by the ac<g ref="char:EOLhyphen"/>cession of many armes and popish Commanders from forraign parts, arriving at <hi>Newcastle,</hi> and other ports, and joyning themselves with those professed enemies to our reli<g ref="char:EOLhyphen"/>gion, &amp; to the lawes made to guard it, &amp; to suppresse or prevent their frequent treasons and rebellions; and that it is notoriously known, that the rebels in and about <hi>Newcastle,</hi> under the command of the Earle of <hi>Newcastle,</hi> do lay very great impositions upon every ship-lading of Coles exported thence for th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> use of the C<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y of <hi>London</hi> &amp; other places of this Kingdom; and if these impositions be not paid, stay is made of their Cole-ships, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d some of them are compelled oversea, to fetch in more men, armes, and ammunition, to furnish the said popish army, against us, and our religion; by which meanes a great de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rth of Coles must inevitably befall the poore people in and about <hi>London,</hi> that proba<g ref="char:EOLhyphen"/>bly may occasion many dangerous tumults and commotions, while the said Popish army is advancing toward <hi>London,</hi> with hope that by this and other their divellish ar<g ref="char:EOLhyphen"/>tifices they may find all in combustions here, whereby they may with lesse resistance pillage and sacke this Citie, cut the throats of all men of estates, and ravish their wives and daughters without difference (for papists, in such cases, never make difference between friends and enemies:) yea, so insolent and barbarous are these bloody enemies become, that (while some men in these parts do causelesly murmur and complain if any thing, although it amount not to the thirtieth part of their estates, be required of them for their own preservation as well as for the publique safetie) these popish rebels violently seize upon the persons of so many men of quality and wealth as they can, although no enemies to their cause, and compell them to redeem themselves, some at 1000. l. some at 2000. l. some at 3000. l. a man, inforcing others to bring in large contributions to the supply of their army, even to the one half &amp; more of some of their estates, and exacting the same with such rigour, that the miseries under which their friends as well as others do grone and mourn, without the least ease or pity, cannot be sufficiently expressed. Upon all which considerations we cannot but declare, that we have just cause to suspect that however they abused his Majesty so far, as to obtaine such illegall Commissions to levy forces upon pretence of assisting his Majesty; yet having gotten power and strength into their hands, they will not lay downe their armes, even when his Majesty shall have laid down his, unlesse they may give lawes to the King and Parliament, for toleration of their superstition and idolatry and the abrogation of all lawes made against it, but will proceed with fire and sword to root out our religion, and all that professe it, as they have already begun and still proceed to do in <hi>Ireland,</hi> if there be not a good provision of Treasure to maintaine and support our army, not onely during the time of treaty, but untill such time as the said popish army be dissolved, and the papists sufficiently secured from ability and opportunity to disturbe that blessed peace and setling of our religion and lawes, which now through Gods blessing may be happily obtained, as it is unfainedly and earnestly desired by us: We therefore the Lords and Commons now assembled in Parliament, for the more speedy and effectuall provision of moneys to be imployed in quenching this unnaturall and bloody war now kindled, not onely in the heart, but in almost all parts of this Kingdom at once, by those papists, persons popishly affected, Traytors, and delinquents, about his Majesty, (who have already made this flourishing Nation to become a field of blood) have in the first place begun a new subscription, and again assessed our selves towards the raising of such a considerable sum of money, as of necessitie must be forthwith advanced, for the purpose aforesaid, albeit many of us be exceedingly prejudiced in our estates, by plundering, pillaging, and forced contribution to those enemies of the King and Kingdome in places where any of our estates lie, and our respective Lands are situated, besides the great charge and losses sustayned by our long attendance upon the publike service of the King and Kingdome: And having by this our example recommended this work to be further advanced and carried on by all others, who are touched with any sence of pietie to God, and their native Country, now in a flame, or of zeale to the true religion professed amongst us, or of conscience in making good their solemn protestation and vow already made to Almighty God. Wee doe further order and require: That the severall persons hereunder named or any three or more of them, doe forthwith summon all the inhabitants and other resiants within <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which they, or any three, or more of them shall thinke fit to be summoned: and doe likewise repaire unto the severall houses or places of abode of all the inhabitants, and other resiants or sojourners within the said <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which they, or any three or more of them shall thinke fit to be repaired unto: And in the name of both Houses of Parliament doe give hearty thankes to so many of them (whether summoned or repaired unto) as have already contributed by way of loane or gift, any money, plate, horse, or armes, according to the propositions of both Houses of Parliament, heretofore published in that behalfe, or otherwise, assuring all and every of them, that the said Houses are very sensible of their alacrity and duty therein; and doe resolve to be as carefull of their safety, welfare, and reimbursment, as of their owne, and to live and dye with them in this cause: And likewise, that the said persons hereunder named, or any three or more of them, doe acquaint not onely those, but especially the rest of the said Inha<g ref="char:EOLhyphen"/>bitants, who have not yet contributed, with the further urgent necessity of new subscriptions for plate and money, still pressing beyond former expectation, and accordingly desire and stirre up them and every of them to under-write in a booke provided for that purpose (and wherein their names shall be registred whether they underwrite or no) such summes of money and plate, as may testifie their reall and further performance of their late Protestation and sacred vow to Almighty God, and of their readinesse to joyne with the rest of the well-affected party of the Kingdome, and with us the Lords and Commons, who are resolved to pursue this worke with our lives, persons, and e<g ref="char:EOLhyphen"/>states, for their preservation as well as for our owne: And because the successe of this further levy of money depends much upon the speedy bringing in thereof; It is there<g ref="char:EOLhyphen"/>fore further ordered, that all such persons as shall hereupon subscribe as aforesaid, be desired by the parties imployed to take their subscriptions, instantly to bring in one fourth part of the said money and plate subscribed by each of them respectively, to the Treasurers for money and plate formerly appointed in the Guild-hall <hi>London,</hi> who shall thereupon give receipts for the same in manner and forme already used. And that the second fourth part of their said Subscriptions be likewise brought in, to the persons and places aforesaid at the end of one moneth next after their subscriptions; And the third fourth part be accordingly brought in, at the end of the second moneth after their said Subscriptions, and the last payment at the end of the third moneth next after their said Subscriptions. And for the ease of such men so subscribing whose oc<g ref="char:EOLhyphen"/>casions will not permit them to make their severall payments at Guild-Hall at the times aforesaid, it is further ordered, that the said parties imployed to take their said Sub<g ref="char:EOLhyphen"/>scriptions, or any two or more of them shall demand and receive of the said persons subscribing, the severall and respective sums so subscribed, and in arrere and unpaid by the space of six daies after the severall times of payment, shall be respectively commenced, and expired, and shall give acquittances for the same in manner and forme ap<g ref="char:EOLhyphen"/>pointed and used upon the former subscriptions of money and plate: For all which both Houses of Parliament doe hereby ingage the Publike Faith of the Kingdome; that they shall be repaid with eight pounds <hi>per cent.</hi> allowance for the same, according to the said former Propositions. And if any thing not mentioned in this Declaration and Order may conduce to the more effectuall promoting of this new Subscription, and the receipt thereof, the same is hereby referred to the wisdome and care of the Committee of Lords and Commons for advance of money and other necessaries for the Army, to be prosecuted and improved with effect. And lastly it is Ordered that this Declarati<g ref="char:EOLhyphen"/>on and Order be Printed and published.</p>
+            <closer>
+               <signed>J. Brown Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="order_to_print">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Sabbati</hi> 14. <hi>Januarij</hi> 1642.</date>
+               </dateline>
+            </opener>
+            <p>IT is ordered by the Lords and Commons of the Committee for Advance of Money, and other necessaries for the Army, that this Declaration be read, by the Minister of each Parish Church, within the Cities of <hi>London</hi> and <hi>Westminster,</hi> the Suburbs, and Liberties, and the Borough of <hi>Southwarke</hi> before the Congregation, to morrow in the forenoone <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r afternoone, and that the said Minister doe use his best indeavour to ex<g ref="char:EOLhyphen"/>hort the people to the subscriptions herein desired with all expedition.</p>
+         </div>
+         <div type="colophon">
+            <p>Printed at London. <hi>January</hi> 18. 1642.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
